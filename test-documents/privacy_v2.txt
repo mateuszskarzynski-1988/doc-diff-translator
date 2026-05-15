@@ -1,0 +1,20 @@
+PRIVACY POLICY
+Last updated: March 1, 2024
+
+1. INFORMATION WE COLLECT
+We collect information you provide directly, including your name, email address, payment details, and billing address.
+
+2. HOW WE USE YOUR INFORMATION
+We use collected information to provide our services, process transactions, send marketing communications, and train our machine learning models.
+
+3. DATA RETENTION
+We retain your personal information for as long as your account is active. Backup copies are kept for 180 days.
+
+4. YOUR RIGHTS
+You have the right to access, correct, or delete your personal information. To exercise these rights, contact us at privacy@example.com. We will respond within 45 days.
+
+5. COOKIES
+We use essential cookies to operate our website. Analytics cookies are activated only with your explicit consent.
+
+6. CONTACT
+Questions about this policy should be directed to our Data Protection Officer at dpo@example.com.

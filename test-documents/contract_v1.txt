@@ -1,0 +1,27 @@
+SERVICES AGREEMENT
+
+This Services Agreement ("Agreement") is entered into between Acme Corp ("Client") and Vendor Ltd ("Provider") on January 1, 2024.
+
+1. SCOPE OF SERVICES
+The Provider shall deliver consulting services as outlined in Schedule A, attached hereto and incorporated by reference.
+
+2. TERM
+This Agreement commences on January 1, 2024 and continues for an initial term of twelve (12) months.
+
+3. FEES AND PAYMENT
+The Client agrees to pay the Provider a monthly fee of $5,000, payable within thirty (30) days of receipt of invoice. Late payments may incur a 1.5% monthly interest charge.
+
+4. CONFIDENTIALITY
+Each party agrees to maintain the confidentiality of any proprietary information disclosed during the course of this Agreement for a period of two (2) years following termination.
+
+5. TERMINATION
+Either party may terminate this Agreement with thirty (30) days written notice. Upon termination, the Client shall pay all outstanding fees for services rendered up to the termination date.
+
+6. LIABILITY
+The Provider's total liability under this Agreement shall not exceed the fees paid by the Client in the preceding six (6) months.
+
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+8. ENTIRE AGREEMENT
+This document constitutes the entire agreement between the parties and supersedes all prior negotiations.
