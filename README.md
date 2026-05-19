@@ -10,4 +10,4 @@ Upload two versions of a document and receive a prose description of what change
 - **LLM:** Claude API (Anthropic)
 
 ## Status
-🚧 Work in progress
+This is a live POC. If the demo is unresponsive, the backend may have been deactivated — see source code on GitHub

@@ -1,12 +1,14 @@
 """
 Document parser microservice.
 Single endpoint POST /parse — accepts a PDF or DOCX file, returns extracted text as JSON.
+Also serves example documents for the frontend "Try with example" feature.
 Deployed as a standalone service so any client (n8n, Lovable, scripts) can call it.
 """
 import io
 import os
 from fastapi import FastAPI, UploadFile, File, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 import pdfplumber
 import mammoth
 
@@ -23,6 +25,10 @@ app.add_middleware(
 
 # Simple bearer token auth — set PARSER_API_KEY env var when running
 API_KEY = os.getenv("PARSER_API_KEY", "dev-key-change-me")
+
+# Serve example documents for the "Try with example" feature in the frontend.
+# Accessible at /examples/contract_v1.docx and /examples/contract_v2.docx
+app.mount("/examples", StaticFiles(directory="examples"), name="examples")
 
 
 def extract_pdf(content: bytes) -> str:
